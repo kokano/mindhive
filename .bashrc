@@ -1,5 +1,6 @@
 # Export PATHs
 export PATH=/software/common/bin:$PATH
+export PATH=/software/ANTS/versions/140926:$PATH
 
 # Setup a fancy shell command prompt:
 prompt1="\[\e[0;33m\][\A]\[\e[0m\]" # Display the time in the bash prompt
